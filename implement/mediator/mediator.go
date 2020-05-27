@@ -28,7 +28,7 @@ func (c *Colleague) GetMediator() Mediator {
 	return c.mediator
 }
 
-// CDDriver 光驱类，一个同时类
+// CDDriver 光驱类，一个同事类
 type CDDriver struct {
 	Colleague
 	data string // 从光驱读出来的数据
