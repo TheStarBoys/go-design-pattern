@@ -33,7 +33,6 @@ go设计模式，研磨设计模式的读书笔记。
 抽象了对象实例化过程，用来帮助创建对象的实例。
 
 - [简单工厂模式 (Simple Factory)](./pattern/simple_factory)
-
 - [工厂方法模式 (Factory Method)](./pattern/factory_method)
 - [抽象工厂模式 (Abstract Factory)](./pattern/abstract_factory)
 - [生成器模式 (Builder)](./pattern/builder)
@@ -60,7 +59,7 @@ go设计模式，研磨设计模式的读书笔记。
 - [观察者模式 (Observer)](./pattern/observer)
 - [命令模式 (Command)](./pattern/command)
 - [迭代器模式 (Iterator)](./pattern/iterator)
-- [模板方法模式 (Template Method)]()
+- [模板方法模式 (Template Method)](./pattern/template_method)
 - [策略模式 (Strategy)]()
 - [状态模式 (State)]()
 - [备忘录模式 (Memento)]()
