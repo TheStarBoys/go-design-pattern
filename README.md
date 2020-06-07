@@ -24,6 +24,12 @@ go设计模式，研磨设计模式的读书笔记。
    - 从思想和方法上吸收设计模式精髓，**收发随心**。
    - 根据需求，对已有的模式进行**变形**、**组合**。
 
+## 项目结构
+
+`./pattern` 包里放置比较通用的模板
+
+`./implement` 包里放置相关模式的具体实现，比较简单的设计模式没有单独在此包进行实现。
+
 
 
 ## 分类
@@ -60,8 +66,8 @@ go设计模式，研磨设计模式的读书笔记。
 - [命令模式 (Command)](./pattern/command)
 - [迭代器模式 (Iterator)](./pattern/iterator)
 - [模板方法模式 (Template Method)](./pattern/template_method)
-- [策略模式 (Strategy)]()
-- [状态模式 (State)]()
+- [策略模式 (Strategy)](./pattern/strategy)
+- [状态模式 (State)](./pattern/strategy/state)
 - [备忘录模式 (Memento)]()
 - [解释器模式 (Interpreter)]()
 - [职责链模式 (Chain of Responsibility)]()
