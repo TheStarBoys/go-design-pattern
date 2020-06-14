@@ -54,8 +54,8 @@ go设计模式，研磨设计模式的读书笔记。
 - [代理模式 (Proxy)](./pattern/proxy)
 - [组合模式 (Composite)](./pattern/composite)
 - [享元模式 (Flyweight)](./pattern/flyweight)
-- [装饰模式 (Decorator)]()
-- [桥接模式 (Bridge)]()
+- [装饰模式 (Decorator)](./pattern/decorator)
+- [桥接模式 (Bridge)](./pattern/bridge)
 
 ### 行为型模式
 
@@ -69,6 +69,7 @@ go设计模式，研磨设计模式的读书笔记。
 - [策略模式 (Strategy)](./pattern/strategy)
 - [状态模式 (State)](./pattern/state)
 - [备忘录模式 (Memento)](./pattern/memento)
-- [解释器模式 (Interpreter)]()
-- [职责链模式 (Chain of Responsibility)]()
-- [访问者模式 (Visitor)]()
+- [解释器模式 (Interpreter)](./pattern/interpreter)
+- [职责链模式 (Chain of Responsibility)](./pattern/chain_of_responsibility)
+- [访问者模式 (Visitor)](./pattern/visitor)
+
